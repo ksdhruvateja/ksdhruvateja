@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruva Teja</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">Hi 👋, I'm Dhruva Teja Kandalam Sunil </h1>
+<h3 align="center">A passionate Full Stack Cloud developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
