@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://dhruvateja.netlify.app/](https://dhruvateja.netlify.app/)
 
-- 📫 How to reach me **dhruvateja.kandalamsunil@stonybrook.edu**
+- 📫 How to reach me **dhruvatejashetty123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruva-teja-kandalam-sunil-0a65421b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruvatejakandalamsunil/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruvatejakandalamsunil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruvatejakandalamsunil/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
